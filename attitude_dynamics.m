@@ -36,3 +36,5 @@ function [dydt] = attitude_dynamics(t, Y)
     
     idx = idx + 1;
 end
+
+% Adding some test for version control purposes
